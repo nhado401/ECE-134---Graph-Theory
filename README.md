@@ -11,4 +11,4 @@ My algorithm is as follow:
 
 However, the run time was very terrible and I was not able to run the program for the entire map (with 1269 sensors). For the convenience, I only ran it with the first 400 sensors, but by observing the trajectory, the algorithm is not too bad.
 
-You can create any arbitrary list of node to test the program, it works well for all cases.
+To run the program, one would need to have a location file that was provided in the class, but you can always create any arbitrary list of node to test the program, it works well for all cases.
