@@ -10,3 +10,5 @@ My algorithm is as follow:
 6) Calculate the distance from the last node to the sink.
 
 However, the run time was very terrible and I was not able to run the program for the entire map (with 1269 sensors). For the convenience, I only ran it with the first 400 sensors, but by observing the trajectory, the algorithm is not too bad.
+
+You can create any arbitrary list of node to test the program, it works well for all cases.
