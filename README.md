@@ -1,5 +1,5 @@
 # ECE-134---Graph-Theory
-This is the project in which I was provided a list of sensor locations in a 300x300 map. My task was to design an algorithm to find a shortest route for a drone starting at the central node (150,150), where the receiver/sink will be, and needs to return to the same point. Moreover, because it is a large drone, as it flies above a square x, it can simultaneously drop sensors not only on the square x but also on all neighboring squares inside a 5 x 5 square with center x.
+This is the project in which I was provided a list of sensor locations in a 300x300 map. My task was to design an algorithm to find a shortest route for a drone starting at the central node (150,150), where the receiver/sink will be, visit all other nodes and return to the same point. Moreover, because it is a large drone, as it flies above a square x, it can simultaneously drop sensors not only on the square x but also on all neighboring squares inside a 5 x 5 square with center x.
 
 My algorithm is as follow:
 1) Create a minimum spanning tree represented by an adjacency matrix.
